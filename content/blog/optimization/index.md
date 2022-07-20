@@ -31,3 +31,5 @@ description: "Frontend Optimization Techniques"
 ![Rendering Types SSR/CSR etc](https://user-images.githubusercontent.com/1297426/179906491-6c2532fb-d82f-4fb7-8101-a6977c2ed49c.png)
 
 ![Cycle](https://user-images.githubusercontent.com/1297426/179906725-1b88ebbb-d7b7-42ef-b2ea-6d7ab505f1bf.png)
+
+_Cheers_
