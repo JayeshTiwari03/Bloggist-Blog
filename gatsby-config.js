@@ -3,7 +3,7 @@ module.exports = {
     title: `Bloggist Blog`,
     author: {
       name: `Jayesh Tiwari`,
-      summary: `who lives and works in India building useful things.`,
+      summary: `who lives and works in Bharat building useful things.`,
     },
     description: `A blog to keep a log of resources.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
