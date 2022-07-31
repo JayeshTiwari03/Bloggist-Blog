@@ -1,3 +1,5 @@
+Access the new blog here - https://bloggistblogdevelop.gtsb.io/
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
